@@ -44,7 +44,7 @@ const Contact = () => {
 														<span class="icon-of-value">
 															<i class="fas fa-map-marker-alt"></i>
 														</span>
-														<span class="value">Silicon Valley, USA</span>
+														<span class="value">Uttara, Dhaka, Bangladesh</span>
 													</li>
 													
 													
@@ -53,7 +53,7 @@ const Contact = () => {
 														<span class="icon-of-value">
 															<i class="fas fa-mobile-alt"></i>
 														</span>
-														<span class="value">+76 21 19 34 20</span>
+														<span class="value">+88 01975105859</span>
 													</li>
 													
 													
@@ -62,7 +62,7 @@ const Contact = () => {
 														<span class="icon-of-value">
 															<i class="fas fa-envelope"></i>
 														</span>
-														<span class="value">you@yourwebsite.com</span>
+														<span class="value">hasifmahmud98@gmail.com</span>
 													</li>
 													
 													
@@ -71,7 +71,7 @@ const Contact = () => {
 														<span class="icon-of-value">
 															<i class="fas fa-globe"></i>
 														</span>
-														<span class="value">www.yourwebsite.com</span>
+														<span class="value">https://hasif-mahmud-portfolio.netlify.app</span>
 													</li>
 													
 													
@@ -80,7 +80,7 @@ const Contact = () => {
 														<ul class="social-media">
 															
 															<li>
-																<a href="#">
+                                                            <a target="_blank" href="https://www.facebook.com/hasifmahmud.mahim.9">
 																	<span class="front">
 																		<i class="fab fa-facebook-f"></i>
 																	</span>
@@ -92,19 +92,19 @@ const Contact = () => {
 															
 															
 															<li>
-																<a href="#">
+                                                            <a target="_blank" href="https://github.com/HasifMahmud98">
 																	<span class="front">
-																		<i class="fab fa-twitter"></i>
+																		<i class="fab fa-github"></i>
 																	</span>
 																	<span class="back">
-																		<i class="fab fa-twitter"></i>
+																		<i class="fab fa-github"></i>
 																	</span>
 																</a>
 															</li>
 															
 															
 															<li>
-																<a href="#">
+                                                            <a target="_blank" href="https://www.instagram.com/direct/t/340282366841710300949128138363331919040">
 																	<span class="front">
 																		<i class="fab fa-instagram"></i>
 																	</span>
@@ -116,7 +116,7 @@ const Contact = () => {
 															
 															
 															<li>
-																<a href="#">
+                                                            <a target="_blank" href="https://www.linkedin.com/in/hasif-mahmud-mahim-824478188/">
 																	<span class="front">
 																		<i class="fab fa-linkedin-in"></i>
 																	</span>

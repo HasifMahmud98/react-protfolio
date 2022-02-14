@@ -41,7 +41,7 @@ const About = () => {
 											
 											<div class="summary col-md-10 col-sm-9 col-12">
 												
-												<p>I am a UI/UX Designer &amp; Web Developer from Silicon Valley, USA. I am very passionate and dedicated to my work. I have 5 years more work experience. And enjoy working in a team or individual.</p>
+												<p>I am a favorable React developer with 1+ year of learning experience developing websites. I am a creative person who is able to produce websites from concept to launch. Having a detailed understanding of intermediate UI principles, my sites are optimized to be responsive and be a pleasure to use. I have worked effectively both independently and as part of a team, and I am capable of being highly productive either way. To be a successful Engineer in the field of Software Engineering by hard work, teamwork, professionalism, honesty, enthusiasm and utilize my background education, organizational skills, communication skills, scientific curiosity and inter-personal networking with the opportunity to add value to the organization.</p>
 												
 											</div>
 											
@@ -54,7 +54,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>First Name</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">Jason</span>
+														<span class="value">Hasif Mahmud</span>
 													</li>
 													
 													
@@ -63,7 +63,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Last Name</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">Smith</span>
+														<span class="value">Mahim</span>
 													</li>
 													
 													
@@ -72,7 +72,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Date of Birth</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">08 June 1992</span>
+														<span class="value">22 December 2000</span>
 													</li>
 													
 													
@@ -81,7 +81,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Nationality</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">United States</span>
+														<span class="value">Bangladeshi</span>
 													</li>
 													
 												</ul>
@@ -96,7 +96,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Phone</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">+76 21 19 34 20</span>
+														<span class="value">+88 01975105859</span>
 													</li>
 													
 													
@@ -105,7 +105,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Email</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">you@yourwebsite.com</span>
+														<span class="value">hasifmahmud98@gmail.com</span>
 													</li>
 													
 													
@@ -114,7 +114,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Address</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">Silicon Valley, USA</span>
+														<span class="value">Uttara, Dhaka, Bangladesh</span>
 													</li>
 													
 													
@@ -123,7 +123,7 @@ const About = () => {
 															<i class="fas fa-angle-double-right"></i><span>Languages</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">English, China</span>
+														<span class="value">English, Bangla, China</span>
 													</li>
 													
 												</ul>
@@ -134,7 +134,7 @@ const About = () => {
 												<ul>
 													
 													<li>
-														<a href="#">
+														<a target="_blank" href="https://www.facebook.com/hasifmahmud.mahim.9">
 															<span class="front">
 																<i class="fab fa-facebook-f"></i>
 															</span>
@@ -146,19 +146,19 @@ const About = () => {
 													
 													
 													<li>
-														<a href="#">
+														<a target="_blank" href="https://github.com/HasifMahmud98">
 															<span class="front">
-																<i class="fab fa-twitter"></i>
+																<i class="fab fa-github"></i>
 															</span>
 															<span class="back">
-																<i class="fab fa-twitter"></i>
+																<i class="fab fa-github"></i>
 															</span>
 														</a>
 													</li>
 													
 													
 													<li>
-														<a href="#">
+														<a target="_blank" href="https://www.instagram.com/direct/t/340282366841710300949128138363331919040">
 															<span class="front">
 																<i class="fab fa-instagram"></i>
 															</span>
@@ -170,7 +170,7 @@ const About = () => {
 													
 													
 													<li>
-														<a href="#">
+														<a target="_blank" href="https://www.linkedin.com/in/hasif-mahmud-mahim-824478188/">
 															<span class="front">
 																<i class="fab fa-linkedin-in"></i>
 															</span>
@@ -187,7 +187,7 @@ const About = () => {
 											<div class="button-wrapper col-12">
 												
 												<div class="single-button">
-													<a href="#">
+													<a href="pdf/CV(Hasif Mahmud Mahim).pdf" download="CV(Hasif Mahmud Mahim)">
 														<span class="front">
 															<i class="fas fa-file-pdf"></i><span class="value">Download <span>CV</span></span>
 														</span>
